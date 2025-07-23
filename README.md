@@ -40,9 +40,9 @@ Do not use on unauthorized networks or without explicit permission.
 ---
 
 ## 📸 Preview
-![Portal Preview] (./img/portalpreview.png)
-![httPeek preview] (./img/httpeekcapture.jpg)
-![Captured credentials] (./img/captured.png)
+![Portal Preview](./img/portalpreview.png)
+![httPeek preview](./img/httpeekcapture.jpg)
+![Captured credentials](./img/captured.png)
 
 
 ---
