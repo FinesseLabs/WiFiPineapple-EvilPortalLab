@@ -41,8 +41,8 @@ Do not use on unauthorized networks or without explicit permission.
 
 ## 📸 Preview
 ![Portal Preview](./portalpreview.PNG)
-![httPeek preview](./img/httpeekcapture.jpg)
-![Captured credentials](./img/captured.PNG)
+![httPeek preview](./httpeekcapture.jpg)
+![Captured credentials](./captured.PNG)
 
 
 ---
