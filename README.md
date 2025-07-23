@@ -42,7 +42,7 @@ Do not use on unauthorized networks or without explicit permission.
 ## 📸 Preview
 ![Portal Preview](./portalpreview.PNG)
 ![httPeek preview](./httpeekcapture.jpg)
-![Captured credentials](./captured.PNG)
+![Captured credentials](./captured.jpg)
 
 
 ---
