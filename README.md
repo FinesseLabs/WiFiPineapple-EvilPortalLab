@@ -40,7 +40,7 @@ Do not use on unauthorized networks or without explicit permission.
 ---
 
 ## 📸 Preview
-![Portal Preview](./img/portalpreview.PNG)
+![Portal Preview](./portalpreview.PNG)
 ![httPeek preview](./img/httpeekcapture.jpg)
 ![Captured credentials](./img/captured.PNG)
 
