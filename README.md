@@ -4,7 +4,7 @@ Testing, customizing, and deploying Evil Portals using the WiFi Pineapple for wi
 
 ---
 
-## 🎯 Project Scope
+##  Project Scope
 
 This lab involves using Hak5’s WiFi Pineapple to:
 
@@ -14,7 +14,7 @@ This lab involves using Hak5’s WiFi Pineapple to:
 
 ---
 
-## 💡 Tools & Modules
+## Tools & Modules
 
 - Evil Portal
 - httPeek (for packet logging)
@@ -23,7 +23,7 @@ This lab involves using Hak5’s WiFi Pineapple to:
 
 ---
 
-## 💥 What We've Done
+##  What I've Done
 
 - ✅ Installed Evil Portal via Pineapple GUI  
 - ✅ Created a custom fake login screen  
@@ -50,5 +50,5 @@ Do not use on unauthorized networks or without explicit permission.
 ## 📝 Notes
 
 - Pineapple AP name rotates randomly to avoid detection  
-- Want to test against mobile devices with captive portal triggers  
+- Test against mobile devices with captive portal triggers  
 - Considering MAC whitelist bypass for personal devices
